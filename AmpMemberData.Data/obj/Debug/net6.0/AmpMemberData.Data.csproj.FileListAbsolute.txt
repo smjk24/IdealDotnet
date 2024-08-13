@@ -1,0 +1,14 @@
+C:\CompanyProject\AMP\AmpMemberData.Data\bin\Debug\net6.0\AmpMemberData.Data.deps.json
+C:\CompanyProject\AMP\AmpMemberData.Data\bin\Debug\net6.0\AmpMemberData.Data.dll
+C:\CompanyProject\AMP\AmpMemberData.Data\bin\Debug\net6.0\AmpMemberData.Data.pdb
+C:\CompanyProject\AMP\AmpMemberData.Data\obj\Debug\net6.0\AmpMemberData.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\CompanyProject\AMP\AmpMemberData.Data\obj\Debug\net6.0\AmpMemberData.Data.AssemblyInfoInputs.cache
+C:\CompanyProject\AMP\AmpMemberData.Data\obj\Debug\net6.0\AmpMemberData.Data.AssemblyInfo.cs
+C:\CompanyProject\AMP\AmpMemberData.Data\obj\Debug\net6.0\AmpMemberData.Data.csproj.CoreCompileInputs.cache
+C:\CompanyProject\AMP\AmpMemberData.Data\obj\Debug\net6.0\AmpMemberData.Data.dll
+C:\CompanyProject\AMP\AmpMemberData.Data\obj\Debug\net6.0\refint\AmpMemberData.Data.dll
+C:\CompanyProject\AMP\AmpMemberData.Data\obj\Debug\net6.0\AmpMemberData.Data.pdb
+C:\CompanyProject\AMP\AmpMemberData.Data\obj\Debug\net6.0\ref\AmpMemberData.Data.dll
+C:\CompanyProject\AMP\AmpMemberData.Data\obj\Debug\net6.0\AmpMemberData.Data.csproj.AssemblyReference.cache
+C:\CompanyProject\AMP\AmpMemberData.Data\bin\Debug\net6.0\AmpMemberData.Data.runtimeconfig.json
+C:\CompanyProject\AMP\AmpMemberData.Data\obj\Debug\net6.0\AmpMemberData.Data.genruntimeconfig.cache
